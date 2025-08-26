@@ -1,0 +1,19 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# WordPress specific (if needed later)
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
